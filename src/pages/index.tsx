@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Styles from './home.module.scss'
 
 import Head from 'next/head'
