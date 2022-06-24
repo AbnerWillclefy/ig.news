@@ -8,6 +8,8 @@ import { getPrismicClient } from "../../services/prismic";
 
 import Styles from "./styles.module.scss";
 
+// comment
+
 type Post = {
   slug: string;
   title: string;
